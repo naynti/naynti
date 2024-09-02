@@ -1,4 +1,4 @@
-![0902](https://github.com/user-attachments/assets/49885ce5-be09-45e5-8799-915fbcdca33e)
+![dino](https://github.com/user-attachments/assets/1977ed0d-e4be-4f45-b41b-c4922a4b95a1)
 <h1 align="center">Hi 👽, I'm Cris Michael Angelo Mortes</h1>
 <h3 align="center">A passionate frontend web developer</h3>
 
