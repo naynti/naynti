@@ -1,4 +1,4 @@
-![0902 (1)](https://github.com/user-attachments/assets/b6cffe8c-3243-4309-8d1d-dfd74a84fe67)
+![0902](https://github.com/user-attachments/assets/49885ce5-be09-45e5-8799-915fbcdca33e)
 <h1 align="center">Hi 👽, I'm Cris Michael Angelo Mortes</h1>
 <h3 align="center">A passionate frontend web developer</h3>
 
