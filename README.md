@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/2f3d44ac-4db0-4803-8dcc-e03bc05c04f5" alt="0902 (1)" width="1200" height="500"/>
+<img src="https://github.com/user-attachments/assets/2f3d44ac-4db0-4803-8dcc-e03bc05c04f5" alt="0902 (1)" width="1200" height="300"/>
 
 <h1 align="center">Hi 👽, I'm Cris Michael Angelo Mortes</h1>
 <h3 align="center">A passionate frontend developer</h3>
