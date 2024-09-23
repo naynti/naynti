@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/140828ab-a4e4-4fbe-a1ea-cbf599a88215" alt="0902 (1)" width="1200" height="200"/>
 
 
-<h1 align="center">Hi 👽, I'm Cris Michael Angelo Mortes</h1>
+<h1 align="center">Hi, I'm Cris 👽</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naynti&label=Profile%20views&color=0e75b6&style=flat" alt="naynti" /> </p>
