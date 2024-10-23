@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/user-attachments/assets/140828ab-a4e4-4fbe-a1ea-cbf599a88215" alt="0902 (1)" width="1200" height="170"/>
+<img src="https://github.com/user-attachments/assets/140828ab-a4e4-4fbe-a1ea-cbf599a88215" alt="0902 (1)" width="1200" height="180"/>
 
 
 <h1 align="center">Hi, I'm Cris 👽</h1>
